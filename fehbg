@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-scale '/home/deadbyte/.wallpaper/wall-01.jpg' 
